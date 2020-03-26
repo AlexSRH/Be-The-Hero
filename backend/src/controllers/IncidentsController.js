@@ -5,7 +5,7 @@ module.exports = {
     const { page = 1 } = req.query 
     const incidents = await connection('incidents')
     .join('ongs', 'ongs.id', '=', 'incidents.ong_id').limit(5).offset( (page - 1) * 5 )
-    .select(['incidents.*', 'ongs.name', 'ongs.whatsapp', 'ongs.city', 'ongs.uf'])
+    .select(['incidents.*', 'ongs.name', 'ongs.whatsapp', 'ongs.city', 'ongs.uf', 'ongs.email'])
 
     const [ count ] = await connection('incidents').count()
 
