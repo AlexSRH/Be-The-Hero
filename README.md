@@ -1,12 +1,12 @@
 # Be-The-Hero
 Projeto resultado da Semana Omnistack #11
 
-### Tecnologias:
+### Tecnologias
 - NodeJS(Express)
 - ReactJS
 - React Native
 
-### Descrição:
+### Descrição
 O projeto consiste em um app que conecta pessoas a ONGs, dividido entre WEB e Mobile. A parte WEB da aplicação é destinada as ONGs que dejesam cadastrar seus casos na base de dados, e a parte Mobile que é destinada a pessoas que desejam ajudar as ONGs.
 
 ## Pré-requisitos
@@ -14,7 +14,7 @@ O projeto consiste em um app que conecta pessoas a ONGs, dividido entre WEB e Mo
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
-## Instalação e execução:
+## Instalação e execução
 
 1. Faça um clone desse repositório;
 
@@ -29,6 +29,9 @@ O projeto consiste em um app que conecta pessoas a ONGs, dividido entre WEB e Mo
 3. Execute `yarn` para instalar as dependencias;
 4. Execute `yarn start` para iniciar servidor;
 
-## Projeto final:
+## Projeto final
 - [Frontend (WEB)](https://bethehero-alex.netlify.app/)
 - [APK - Android](https://drive.google.com/open?id=12cFMMos12KNw_cmbNmcas1w6hPHJHMTc)
+
+## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENCE) para mais detalhes.
