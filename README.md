@@ -34,4 +34,4 @@ O projeto consiste em um app que conecta pessoas a ONGs, dividido entre WEB e Mo
 - [APK - Android](https://drive.google.com/open?id=12cFMMos12KNw_cmbNmcas1w6hPHJHMTc)
 
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENCE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
