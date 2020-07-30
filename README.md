@@ -55,7 +55,6 @@ O projeto consiste em um app que conecta pessoas que dejesam ajudar ONGs(Organiz
 4. Execute `yarn start` para iniciar servidor;
 
 ## Projeto final
-- [Frontend (WEB)](https://bethehero-alex.netlify.app/)
 - [APK - Android](https://drive.google.com/open?id=12cFMMos12KNw_cmbNmcas1w6hPHJHMTc)
 
 ## Licença
